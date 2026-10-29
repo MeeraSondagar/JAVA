@@ -1,0 +1,4 @@
+Backup started
+Backup completed
+ERROR Disk space low
+ERROR File not found

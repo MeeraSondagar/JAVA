@@ -1,0 +1,4 @@
+System started
+User login success
+ERROR Database connection failed
+System retry
